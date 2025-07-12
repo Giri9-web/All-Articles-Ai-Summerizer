@@ -157,7 +157,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-Made with ❤️ by \[giri]
+Made with ❤️ by \Giri
 
 ```
 
